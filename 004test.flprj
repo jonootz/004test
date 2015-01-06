@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." SourceControlDatabaseRoot="C:\Users\jharkins\Desktop\Tests\004test" SourceControlDatabase="https://github.com/jonootz/004test.git" SourceControlProviderType="Git" ProjectGuid="0857e389-d7cf-4224-8328-f84f9c9e747f">
+</CatapultProject>
